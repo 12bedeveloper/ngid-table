@@ -1,0 +1,2 @@
+# ngid-table
+Angular Table
